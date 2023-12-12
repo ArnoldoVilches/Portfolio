@@ -6,7 +6,7 @@ import com.twilio.rest.api.v2010.account.Message;
 import java.util.Scanner;
 import com.twilio.type.PhoneNumber;
 
-public class Remind {
+public class Emergency {
 
 	public static final String ACCOUNT_SID = "AC64688cc08515afe8149a9ef22b2e9987";
 	public static final String AUTH_TOKEN = "1b93d233513114887f05dd46eb332d88";
